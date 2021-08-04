@@ -1,0 +1,6 @@
+5
+weapon			640 gafth/test/weapon_beretta/640hudas1	    0	45	170	45
+weapon_s		640 gafth/test/weapon_beretta/640hudas4	    0	45	170	45
+ammo			640 gafth/test/weapon_beretta/640hudas7	    0	72	24	24
+crosshair		640 gafth/test/weapon_beretta/crosshairsas	24	0	24	24
+autoaim			640 gafth/test/weapon_beretta/crosshairsas	0	72	24	24

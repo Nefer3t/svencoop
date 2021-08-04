@@ -1,0 +1,7 @@
+6
+weapon			640 gafth/test/weapon_9mmm41a/640hudas1	    0	135	170	45
+weapon_s		640 gafth/test/weapon_9mmm41a/640hudas4	    0	135	170	45
+ammo			640 gafth/test/weapon_9mmm41a/640hudas7	    0	72	24	24
+ammo2			640 gafth/test/weapon_9mmm41a/640hudas7	    48	72	24	24
+crosshair		640 gafth/test/weapon_9mmm41a/crosshairsas	0	48	24	24
+autoaim			640 gafth/test/weapon_9mmm41a/crosshairsas	48	72	24	24
