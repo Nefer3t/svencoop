@@ -1,0 +1,63 @@
+HCL or HARDCORE LIFE Campaign by Mikk & Gaftherman
+
+Info
+
+This Half-life Campaign is an remake with lots of new contents.  with brand new combinations of chapters/maps, weapons, A.Is/NPCs from Opposing force, Azure sheep, Residual life, and Sven Co-op. Classic Mode should be ENABLED or system will NOT WORK.
+
+Things you need keep in mind while playing this.
+
+1) The ammo will NOT spawn most of the time. Pick it up and share with everyone.
+
+2) The server have dynamic ammo spawn for % amount of players. More players join means ammo will potentially spawns.
+
+3) The same dynamic spawns could also apply for enemies.
+
+4) The maps are designed dynamically from 1 to 7 players. More than 8 people picking up all the ammo, would potentially make other players empty handed with just a crowbar. so don't take it all by yourself.
+
+5) The enemies will start to looks for players after a certain time of period. EVEN if there are no players by default.
+
+6) The flashlight is limited. You have 100 battery charge by default. you can charge it by picking up special battery, looks similarly like the H.E.V battery.
+
+7) The head shot balancing is on, so more players join the game, the head shot damage reduction for enemy will be increase 0.1 per 2 players Generic: maximum: 1.1, minimum: 0.6; it can variate for some maps.
+
+8) This campaign is really long so it have a lobby. All maps are equally hard. You will miss out a lot of weapons if you didn't complete on certain maps.
+
+9) The maps will start off survival. after some seconds it turn on with not count advertensing.
+
+10) the npc's will NOT drop weapons
+
+11) this campaign can be finished by 3 different ways. the ending doesn't changed at all. the gameplay does
+
+12) This campaign have secrets and bonuses, good luck finding one ;)
+
+
+Maps Created / Modified by Mikk
+Scripting merging by Gaftherman
+
+thanks to:
+Cubemath
+Outerbeast
+Dissident (Rizulix)
+Hons.Elle 
+Cakey
+Ub-Oh
+AlexCorruptor
+Scrama
+UrbaNebula
+Dr. Orange
+Angela Luna
+KernCore
+Neo
+Zorbos
+Hano (Stella)
+KEZAEIV
+Rick
+AuroraF
+lazyfaker
+Rafael "R4to0" Alves
+JulianR0
+
+and special thanks to w00tguy for BSPGuy tool creation
+
+
+Music credits into maps/c0lobby_hardcorelife_motd.txt

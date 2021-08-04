@@ -1,0 +1,58 @@
+
+"displayname" "poison headcrab"
+"model" "models/mikk/hcl/npc/poisoncrab.mdl"
+"health" "80"
+
+"displayname" "xeno headcrab"
+"model" "models/mikk/hcl/npc/xenocrab.mdl"
+
+"model" "models/mikk/hcl/npc/zombie_barney.mdl"
+
+"model" "models/mikk/hcl/npc/zombie_soldier.mdl"
+
+"model" "models/mikk/hcl/npc/zombie.mdl"
+
+"model" "models/mikk/hcl/npc/gonome.mdl"
+
+"displayname" "zombie constructor"
+"model" "models/mikk/hcl/npc/zombie_construction.mdl"
+
+"displayname" "zombie hevsci"
+"model" "models/mikk/hcl/npc/zombie_hev.mdl"
+"health" "300"
+
+"displayname" "xeno zombie barney"
+"model" "models/mikk/hcl/npc/xenoz_barney.mdl"
+
+"displayname" "xeno zombie"
+"model" "models/mikk/hcl/npc/xenoz_sci.mdl"
+
+
+
+"model" "models/mikk/hcl/npc/alien.mdl"
+
+"model" "models/mikk/hcl/npc/agrunt.mdl"
+
+"model" "models/mikk/hcl/npc/baby_voltigore.mdl"
+
+"model" "models/mikk/hcl/npc/voltigore.mdl"
+
+"model" "models/mikk/hcl/boss/slave.mdl"
+"displayname" "alien slavet Boss"
+"health" "1500"
+
+"displayname" "super alien slave"
+"health" "200"
+"model" "models/mikk/hcl/npc/slave.mdl"
+
+"model" "models/mikk/hcl/boss/panther.mdl"
+"displayname" "Panther"
+"health" "5000"
+
+"displayname" "zombified female assassin"
+"model" "models/mikk/hcl/npc/zombie_female.mdl"
+"health" "200"
+
+"model" "models/mikk/hcl/npc/hound.mdl"
+
+"model" "models/mikk/hcl/npc/houndeye.mdl"

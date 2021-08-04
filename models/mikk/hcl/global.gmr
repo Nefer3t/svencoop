@@ -1,0 +1,33 @@
+"models/w_battery.mdl"			"models/mikk/hcl/props/battery.mdl"
+"models/w_suit.mdl"			"models/mikk/hcl/props/w_suit.mdl"
+"models/light.mdl"			"models/mikk/hcl/props/light.mdl"
+"models/hair.mdl"			"models/mikk/hcl/props/hair.mdl"
+
+"models/chumtoad.mdl"			"models/mikk/hcl/npc/chumtoad.mdl"
+
+"models/v_9mmar.mdl"			"models/mikk/hcl/wpn/v_mp5.mdl"
+"models/v_9mmar.mdl"			"models/mikk/hcl/wpn/v_m16a4.mdl"
+
+"models/v_9mmhandgun.mdl"		"models/mikk/hcl/wpn/v_glock.mdl"
+"models/v_9mmhandgun.mdl"		"models/mikk/hcl/wpn/v_9mmhandgun.mdl"
+
+"models/v_crossbow.mdl"			"models/mikk/hcl/wpn/v_crossbow.mdl"
+"models/v_crossbow.mdl"			"models/mikk/hcl/wpn/v_cross.mdl"
+
+"models/v_357.mdl"			"models/mikk/hcl/wpn/v_357.mdl"
+"models/v_minigun.mdl"			"models/mikk/hcl/wpn/v_minigun.mdl"
+"models/v_displacer.mdl"		"models/mikk/hcl/wpn/v_displacer.mdl"
+"models/v_spore_launcher.mdl"		"models/mikk/hcl/wpn/v_spore_launcher.mdl"
+"models/v_egon.mdl"			"models/mikk/hcl/wpn/v_egon.mdl"
+"models/v_gauss.mdl"			"models/mikk/hcl/wpn/v_gauss.mdl"
+"models/v_grenade.mdl"			"models/mikk/hcl/wpn/v_grenade.mdl"
+"models/v_desert_eagle.mdl"		"models/mikk/hcl/wpn/v_desert_eagle.mdl"
+"models/v_rpg.mdl"			"models/mikk/hcl/wpn/v_rpg.mdl"
+"models/v_satchel.mdl"			"models/mikk/hcl/wpn/v_satchel.mdl"
+"models/v_satchel_radio.mdl"		"models/mikk/hcl/wpn/v_satchel_radio.mdl"
+"models/v_shotgun.mdl"			"models/mikk/hcl/wpn/v_shotgun.mdl"
+"models/v_squeak.mdl"			"models/mikk/hcl/wpn/v_squeak.mdl"
+"models/v_pipe_wrench.mdl"		"models/mikk/hcl/wpn/v_pipe_wrench.mdl"
+"models/v_tripmine.mdl"			"models/mikk/hcl/wpn/v_tripmine.mdl"
+"models/v_crowbar.mdl"			"models/mikk/hcl/wpn/v_crowbar.mdl"
+"models/v_hgun.mdl"			"models/mikk/hcl/wpn/v_hgun.mdl"
